@@ -1,3 +1,5 @@
+Autor: jacky@dragons.mx
+
 FRONTEND-PROFESIONAL-AMERICA
 ============================
 
